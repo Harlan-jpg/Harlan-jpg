@@ -1,5 +1,5 @@
-Hi there 👋
-
+Hi there 👋 My name is Harlan Tasci and im currently at Fort Hays Northwest Tech in ADET(App Development and Emerging Technologies 
+Senior at Goodland Jr Sr High School
 ## Im currently working on a few personal projects
 ## 🔭 I’m currently working on inproving my coding skills
 ## 🌱 I’m currently learning Java, CSS, Swift, HTML
