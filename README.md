@@ -1,5 +1,12 @@
-## Hi there 👋
+Hi there 👋
 
+## Im currently working on a few personal projects
+## 🔭 I’m currently working on inproving my coding skills
+## 🌱 I’m currently learning Java, CSS, Swift, HTML
+## 🤔 I’m looking for help with Java, and Python
+## 💬 Ask me about Anything to do with fitness I will talk your ear off
+## 📫 How to reach me: harlan.tasci@fhnw.edu or harlantasci437@gmail.com (785)821-3440
+## ⚡ Fun fact: 2x State Powerlifting Champ for 3A Kansas
 <!--
 **Harlan-jpg/Harlan-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
